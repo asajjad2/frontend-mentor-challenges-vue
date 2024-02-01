@@ -1,6 +1,9 @@
 # Frontend-Mentor-Challenges
 
-In an attempt to quickly learn the nitty gritties of vue js, attempting challenges from https://www.frontendmentor.io/challenges. 
+In an attempt to quickly learn the nitty gritties of vue js with tailwind, attempting challenges from https://www.frontendmentor.io/challenges. 
+
+Live @ https://frontend-mentor-challenges-vue.vercel.app/
+
 Following are the challenges attempted -
 
 ## Blog preview card
