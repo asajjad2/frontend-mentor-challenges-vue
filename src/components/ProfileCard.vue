@@ -7,7 +7,7 @@
                 <h1 class="text-4xl">{{ props.name }}</h1>
             </div>
         </div>
-        <div class="p-4 space-y-2">
+        <div class="flex md:flex-col md:items-start justify-between items-center p-4 space-y-2">
             <h2 :class="props.timeframe==='daily'?'text-white':'text-gray-400' + ' text-sm cursor-pointer'"
                 @click="$emit('update-timeframe', 'daily')"
             >Daily</h2>

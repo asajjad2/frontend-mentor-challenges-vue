@@ -1,8 +1,8 @@
 <template>
     <div class="min-h-screen max-w-screen flex justify-center items-center bg-[#0f1424] text-white">
-        <div class="flex gap-4">
+        <div class=" md:flex md:gap-4">
             <ProfileCard :img="Avatar" name="Jeremy Robson" :timeframe="timeframe" @update-timeframe="handleTimeframeUpdate"/>
-            <div class="times grid grid-cols-3 gap-4">
+            <div class="times md:grid md:grid-cols-3 gap-4">
                 <TimeCard v-for="(item, index) in jsonData" :item="item" :key="item.title" :color="getColor(index)" :timeframe="timeframe" :icon="getIcon(index)"/>
             </div>
         </div>
