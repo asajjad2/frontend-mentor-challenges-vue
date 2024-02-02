@@ -1,29 +1,15 @@
-# frontend-mentor-challenges
+# Frontend-Mentor-Challenges
 
-This template should help get you started developing with Vue 3 in Vite.
+In an attempt to quickly learn the nitty gritties of vue js with tailwind, attempting challenges from https://www.frontendmentor.io/challenges. 
 
-## Recommended IDE Setup
+Live @ https://frontend-mentor-challenges-vue.vercel.app/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Following are the challenges attempted -
 
-## Customize configuration
+## Blog preview card
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Your challenge is to build out this blog preview card and get it looking as close to the design as possible.
 
-## Project Setup
+## Time tracking dashboard
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+A perfect opportunity to practice your CSS Grid skills. For anyone wanting to take it up a notch, we provide a JSON data file to practice working with data.
